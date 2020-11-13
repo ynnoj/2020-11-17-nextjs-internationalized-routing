@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "author": "Jonathan Steele <jonathan@steele.pro> (https://steele.pro)",
+  "license": "MIT",
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "10.0.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "postcss-preset-env": "6.7.0",
+    "tailwindcss": "1.9.6"
+  }
+}
